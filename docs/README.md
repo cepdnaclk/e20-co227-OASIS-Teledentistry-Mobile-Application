@@ -35,7 +35,11 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 
- description of the real world problem and solution, impact
+This project, developed under the OASIS research initiative, addresses a pressing issue in Sri Lanka’s government dental clinics, where long queues and limited resources lead to delays and inefficiencies in patient care. Designed as a mobile application using Flutter and Dart, this project seeks to streamline patient interactions with dental professionals, enhancing both accessibility and quality of care.
+
+By allowing doctors to upload images and perform teleconsultations, the app reduces the need for in-person visits, alleviating congestion in clinics. Additionally, the app enables dentists to collaborate more effectively by sharing patient details with specialists for advanced consultations. This feature significantly expands the reach of expertise, allowing patients to benefit from specialized care without the need for extended referrals or hospital visits.
+
+In our efforts to create a robust and scalable system, we migrated the backend from a MERN (MongoDB, Express, React, Node.js) stack to Spring Boot. This transition ensures greater security, improved performance, and ease of integration, making our solution a reliable tool in transforming dental healthcare efficiency.
 
 ## Other Sub Topics
 
