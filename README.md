@@ -25,17 +25,21 @@ https://www.figma.com/proto/ULY00JogEgJQoOlaJPKouz/OASIS-Teledentistry?node-id=2
 
 ## Team members
 
-E/20/069 – Dilshan D.M.T </br> 
-E/20/189 – Karunarathne K.N.P. </br>
-E/20/381 – Somathilaka A.M.T. </br>
-E/20/385 – Sriyarathna D.H. </br>
-E/20/420 – Wanasinghe J.K. 
+-  E/20/069 [Tharaka Dilshan](https://people.ce.pdn.ac.lk/students/e20/069/) [e20069@eng.pdn.ac.lk](mailto:e20069@eng.pdn.ac.lk)
+-  E/20/189 [Nethmini Karunarathne](https://people.ce.pdn.ac.lk/students/e20/189/) [e20189@eng.pdn.ac.lk](mailto:e20189@eng.pdn.ac.lk)
+-  E/20/381 [Nimesha Somathilaka](https://people.ce.pdn.ac.lk/students/e20/381/) [e20381@eng.pdn.ac.lk](mailto:e20381@eng.pdn.ac.lk)
+-  E/20/385 [Devin Sriyarathna](https://people.ce.pdn.ac.lk/students/e20/385/) [e20385@eng.pdn.ac.lk](mailto:e20385@eng.pdn.ac.lk)
+-  E/20/420 [Janith Wanasinghe](https://people.ce.pdn.ac.lk/students/e20/420/) [e20420@eng.pdn.ac.lk](mailto:e20420@eng.pdn.ac.lk) 
 
 ## Project Supervisors
 
-Prof. Roshan G. Ragel </br>
-Dr. Isuru Navinne 
+- [Prof. Roshan G. Ragel](https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/)
+- [Dr. Isuru Navinne](https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/)
 
-Further Details Visit : </br>
-      Front End - https://github.com/Oral-Cavity-Research/OCR-mobile-app </br>
-      Back End - https://github.com/Oral-Cavity-Research/OCR-Spring-Backend </br>
+## Links
+
+- [Front-End](https://github.com/Oral-Cavity-Research/OCR-mobile-app)
+- [Back-End](https://github.com/Oral-Cavity-Research/OCR-Spring-Backend)
+- [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
+- [University of Peradeniya](https://eng.pdn.ac.lk/)
+
